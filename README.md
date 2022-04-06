@@ -20,7 +20,7 @@
 				<header>
 					<span class="image avatar"><img src="images/avatar.png" alt="" /></span>
 					<h1 id="logo"><a href="#">Aaron Herrera</a></h1>
-					<p>I am a Front-End<br />
+					<p>Front-End<br />
 					Web Developer</p>
 				</header>
 				<nav id="nav">
@@ -33,7 +33,7 @@
 				</nav>
 				<footer>
 					<ul class="icons">
-						<li><a href="#" class="icon brands fa-github"><span class="label">Github</span></a></li>
+						<li><a href="https://github.com/aaronmherrera" class="icon brands fa-github"><span class="label">Github</span></a></li>
 						<li><a href="#" class="icon solid fa-envelope"><span class="label">Email: aaronmherrera08@gmail.com</span></a></li>
 					</ul>
 				</footer>
